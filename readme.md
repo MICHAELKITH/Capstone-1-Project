@@ -42,9 +42,15 @@ After you're finished please remove all the comments and instructions!
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
   - [Loom Video ](#loom-video-)
-  - [💻 Getting Started ](#-getting-started-)
+  - [:computer: Getting Started ](#computer-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+    - [Prerequisites](#prerequisites-1)
+    - [Setup](#setup-1)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -98,9 +104,57 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
-
+## :computer: Getting Started <a name="getting-started"></a>
+> Describe how a new developer could make use of your project.
 To get a local copy up and running, follow these steps.
+### Prerequisites
+In order to run this project you need a pc and install ant editor you prefer:100:
+<!--
+Example command:
+```sh
+npm install
+```
+ -->
+### Setup
+Clone this repository to your desired folder:
+Example commands:
+```sh
+  cd Capstone-1-Project
+  git clone https://github.com/MICHAELKITH/Capstone-1-Project
+```
+### Install
+Install this project with:
+<!--
+Example command:
+```sh
+  cd Capstone-1-Project
+  npm install
+```
+--->
+### Usage
+To run the project, execute the following command:
+<!--
+Example command:
+```sh
+  open live server
+```
+--->
+### Run tests
+To run tests, run the following command:
+<!--
+Example command:
+```sh
+comming soon
+```
+--->
+### Deployment
+You can deploy this project using:
+<!--
+Example:
+```sh
+netlify
+```
+ -->
 
 ### Prerequisites
 
