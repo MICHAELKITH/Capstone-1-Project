@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Concert Planner\] ](#-concert-planner-)
+- [📖 \[Europe-Global-Summit\]  is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.](#-europe-global-summit--is-a-project-that-was-given-by-microverse-we-had-to-redesign-the-similar-project-to-this-one-but-we-had-to-include-personal-content-with-or-own-data-and-photos)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -60,7 +60,8 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Concert Planner] <a name="about-project"></a>
+# 📖 [Europe-Global-Summit] <a name="about-project"> is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.</a>
+
 
 **Responsive School Website**
 
@@ -95,7 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/MICHAELKITH/Capstone-Project.git)
+- [Live Demo Link](https://michaelkith.github.io/Capstone-1-Project/)
 
 ## Loom Video <a name="loom"></a>
 - [Video Link]()
