@@ -87,15 +87,15 @@ body #imp {
   border-radius: 5px;
   padding: 0;
 }
-body #activ{
+
+body #activ {
   color: red;
 }
-#log{
+
+#log {
   width: 15%;
   border-radius: 2rem;
- 
 }
-
 
 .top {
   display: flex;
@@ -122,14 +122,11 @@ body #activ{
 nav .container-fluid {
   padding: 0 7%;
 }
-.container-fluid{
-  color: #ec5242;
-}
+
 nav .navbar-nav {
   min-width: 75%;
   justify-content: space-between;
 }
-
 
 nav .nav-link:hover {
   color: #ec5242;
@@ -137,10 +134,9 @@ nav .nav-link:hover {
 }
 
 .content {
-  background: url("assets/images/mobile_intro_bg.png")center no-repeat;
+  background: url("assets/images/mobile_intro_bg.png") center no-repeat;
   background-size: cover;
   padding: 5%;
-
 }
 
 footer div li p {
@@ -193,7 +189,8 @@ footer div li p {
     padding-top: 0;
     max-width: 75%;
   }
-  .navbar-brand{
+
+  .navbar-brand {
     display: none;
   }
 
@@ -255,13 +252,8 @@ footer div li p {
 footer div li {
   font-family: "textFont", sans-serif;
   display: inline-flex;
-  row-gap: 10rem;
   margin-top: 3rem;
-}
-
-footer div li {
   color: rgb(20, 19, 19);
-  gap: 10rem;
   font-size: 5rem;
   font-weight: 900;
   margin-inline-start: 50px;
@@ -340,12 +332,11 @@ footer div {
   padding: 5%;
   min-height: 300px;
   color: white;
-  
 }
 
 #programs .border .img-fluid {
-width: 50%;
-height: 30%;
+  width: 50%;
+  height: 30%;
 }
 
 #programs .border h3 {
@@ -575,6 +566,7 @@ height: 30%;
   color: white;
   min-height: 240px;
 }
+
 #events .row .col-md-6:nth-child(2) .layer h2 {
   font-family: "capFont", sans-serif;
 }
@@ -630,7 +622,6 @@ height: 30%;
 }
 
 @media (max-width: 600px) {
-
   footer div .navbar-brand {
     display: flex;
   }
@@ -639,12 +630,11 @@ height: 30%;
 @media (max-width: 768px) {
   footer div li h2 {
     font-size: 1.2rem;
-    
   }
+
   footer {
     background: black;
   }
-
 
   footer div li p {
     display: none;
@@ -653,7 +643,6 @@ height: 30%;
   .active .navbar-toggler-icon {
     background-image: url("assets/images/closex.png");
     background-size: 2rem;
-   
   }
 
   .show {
