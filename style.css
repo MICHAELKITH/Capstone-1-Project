@@ -508,15 +508,15 @@ footer div {
   min-width: 15%;
 }
 
-#concerts h2 {
+#events h2 {
   font-family: "inHead", sans-serif;
 }
 
-#concerts hr.red {
+#events hr.red {
   min-width: 20%;
 }
 
-#concerts .row {
+#events .row {
   max-width: 70%;
   margin: 0 auto;
 }
@@ -527,47 +527,47 @@ footer div {
   color: #d3d3d3;
 }
 
-#concerts .row .col-md-6:nth-child(1) .layer {
+#events .row .col-md-6:nth-child(1) .layer {
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgba(10, 10, 10, 0.5);
   color: white;
   min-height: 240px;
 }
 
-#concerts .row .col-md-6:nth-child(1) .layer h2 {
+#events .row .col-md-6:nth-child(1) .layer h2 {
   font-family: "capFont", sans-serif;
 }
 
-#concerts .row .col-md-6:nth-child(2) .layer {
+#events .row .col-md-6:nth-child(2) .layer {
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgba(10, 10, 10, 0.5);
   color: white;
   min-height: 240px;
 }
 
-#concerts .row .col-md-6:nth-child(2) .layer h2 {
+#events .row .col-md-6:nth-child(2) .layer h2 {
   font-family: "capFont", sans-serif;
 }
 
-#concerts .row .col-md-6:nth-child(3) .layer {
+#events .row .col-md-6:nth-child(3) .layer {
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgba(10, 10, 10, 0.5);
   color: white;
   min-height: 240px;
 }
 
-#concerts .row .col-md-6:nth-child(3) .layer h2 {
+#events .row .col-md-6:nth-child(3) .layer h2 {
   font-family: "capFont", sans-serif;
 }
 
-#concerts .row .col-md-6:nth-child(4) .layer {
+#events .row .col-md-6:nth-child(4) .layer {
   background-size: cover;
   box-shadow: inset 0 0 0 1000px rgba(10, 10, 10, 0.5);
   color: white;
   min-height: 240px;
 }
 
-#concerts .row .col-md-6:nth-child(4) .layer h2 {
+#events .row .col-md-6:nth-child(4) .layer h2 {
   font-family: "capFont", sans-serif;
 }
 
