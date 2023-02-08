@@ -60,9 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Concert Planner] <a name="about-project"></a>
+# 📖 [Europe-Global-Summit] <a name="about-project"> is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.</a>
 
-**Responsive School Website**
+**Europe-Global-Summit**
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/MICHAELKITH/Capstone-Project.git)
+- [Live Demo Link](https://michaelkith.github.io/Capstone-1-Project/)
 
 ## Loom Video <a name="loom"></a>
 - [Video Link]()
