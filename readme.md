@@ -59,6 +59,13 @@ After you're finished please remove all the comments and instructions!
 **Responsive School Website**
 
 ## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
+- JS
+- Git/GitHub
+- node.js
+- Boostrap 5
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
