@@ -26,17 +26,17 @@ const programs = [
     info: 'Learning to code can be like preparing for a long battle..',
   },
   {
-    icon: './assets/images/opera.png',
+    icon: './assets/images/13th-Aug-DJ-Banner-Pair-Programming-Why-You-Should-Care-About-It-and-How-To-Do-It-Remotely.jpg',
     head: 'Program Time',
     info: '(Monday to Friday) in those time zones, but your daily schedule will differ based on your country relation to that time zone..',
   },
   {
-    icon: './assets/images/live-music.png',
+    icon: './assets/images/13th-Aug-DJ-Banner-Pair-Programming-Why-You-Should-Care-About-It-and-How-To-Do-It-Remotely.jpg',
     head: 'Program Time',
     info: '(Monday to Friday) in those time zones, but your daily schedule will differ based on your countrys relation to that time zone.',
   },
   {
-    icon: './assets/images/pop.png',
+    icon: './assets/images/13th-Aug-DJ-Banner-Pair-Programming-Why-You-Should-Care-About-It-and-How-To-Do-It-Remotely.jpg',
     head: 'Stand Up Meeting',
     info: 'Every day, you will have a standup meeting with your support group to set goals for the day.',
   },
