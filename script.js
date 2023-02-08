@@ -276,7 +276,7 @@ window.onresize = () => {
     check = false;
     desktop();
   } else {
-    alert('okay');
+    console('Approve');
   }
 };
 
@@ -286,7 +286,7 @@ const con = parent.appendChild(createElem('div', 'container'));
 con.classList.add('pb-5');
 con.classList.add('pt-3');
 const h2 = con.appendChild(createElem('h2', 'text-center'));
-h2.innerText = 'Our Daily Schedule';
+h2.innerText = 'Main Program';
 con.appendChild(createElem('hr', 'red'));
 const drow = con.appendChild(createElem('div', 'row'));
 drow.classList.add('justify-content-center');
@@ -312,6 +312,6 @@ programs.forEach((program) => {
 });
 const anc = con.appendChild(createElem('a', 'prog_end'));
 anc.href = '/';
-anc.innerText = 'Know More ';
+anc.innerText = 'See The Whole Program';
 const lastBtn = con.appendChild(createElem('button', 'last_btn'));
 lastBtn.innerText = '';
