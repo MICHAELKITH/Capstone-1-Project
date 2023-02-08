@@ -98,7 +98,7 @@ After you're finished please remove all the comments and instructions!
 - [Live Demo Link](https://michaelkith.github.io/Capstone-1-Project/)
 
 ## Loom Video <a name="loom"></a>
-- [Video Link]()
+- [Video Link](https://www.loom.com/share/9abe320aae044060a296ed0362c5e177)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
