@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://michaelkith.github.io/Capstone-1-Project/)
+- [Live Demo Link]( https://michaelkith.github.io/Capstone-1-Project/)
 
 ## Loom Video <a name="loom"></a>
 - [Video Link]()
