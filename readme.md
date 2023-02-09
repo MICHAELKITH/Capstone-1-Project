@@ -1,42 +1,21 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="150"  height="auto" />
+  
+  <img src="assets/images/capstone.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>1st Capstone Project Of Microverse (Module One)</b></h3>
 
 </div>
+<br/>
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Concert Planner\] ](#-concert-planner-)
+- [📖 \[Europe-Global-Summit\]  is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.](#-europe-global-summit--is-a-project-that-was-given-by-microverse-we-had-to-redesign-the-similar-project-to-this-one-but-we-had-to-include-personal-content-with-or-own-data-and-photos)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -223,4 +202,4 @@ I would like to thank Cindy Shin for her original design of **Creative Commons G
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to  top</a>)</p>
