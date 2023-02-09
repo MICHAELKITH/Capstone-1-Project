@@ -314,4 +314,4 @@ const anc = con.appendChild(createElem('a', 'prog_end'));
 anc.href = '/';
 anc.innerText = 'See The Whole Program';
 const lastBtn = con.appendChild(createElem('button', 'last_btn'));
-lastBtn.innerText = '';
+lastBtn.innerText = 'Join Community Summit 2020';
