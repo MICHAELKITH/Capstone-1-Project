@@ -6,7 +6,7 @@ const courseProgram = [
   {
     name: 'Javascript',
     title: 'The Complete Vannila Coursel',
-    description: 'This JavaScript course starts from scratch and goes on to advanced concepts like OOP. We concentrate on the language itself here, with the minimum...',
+    description: 'This JavaScript course starts from scratch and goes on to advanced concepts like OOP. ',
     image: 'assets/images/JAVASCRIPT.jpg',
   },
   {
@@ -18,25 +18,25 @@ const courseProgram = [
   {
     name: 'Web Development',
     title: 'Introduction to Web Development',
-    description: 'This course covers the fundamental concepts of software engineering and the soft skills competencies that make a world-class software developer.',
+    description: 'This course covers the fundamental concepts of software engineering.',
     image: 'assets/images/Quality.jpg',
   },
   {
     name: 'Ruby',
     title: 'The Complete Vanilla Ruby Course',
-    description: 'As a general-purpose programming language, Ruby is limited only by the developer’s imagination. This course covers purely the Ruby programming .',
+    description: 'As a general-purpose programming language, Ruby is limited only by the developer’s imagination .',
     image: 'assets/images/ruby.jpg',
   },
   {
     name: 'Rails',
     title: 'Complete Ruby on Rails Course',
-    description: 'This is a complete Ruby on Rails course that will aim to demonstrate the power of the Ruby on Rails framework to build scalable and secure web application...',
+    description: 'This is a complete Ruby on Rails course that will aim to demonstrate the power of the Ruby on Rails.',
     image: 'assets/images/rails.png',
   },
   {
     name: 'Css',
     title: 'The Complete Vanilla CSS Course',
-    description: 'Without CSS, every web page would be drab plain text and images that flowed straight down the page. With CSS, you can add color and background',
+    description: 'Without CSS, every web page would be drab plain text and images that flowed straight down the page.',
     image: 'assets/images/Css.png',
   },
 ];
