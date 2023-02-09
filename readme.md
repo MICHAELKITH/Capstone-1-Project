@@ -15,7 +15,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Europe-Global-Summit\]  is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.](#-europe-global-summit--is-a-project-that-was-given-by-microverse-we-had-to-redesign-the-similar-project-to-this-one-but-we-had-to-include-personal-content-with-or-own-data-and-photos)
+- [📖 \[Capstone-project\] ](#-capstone-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -39,7 +39,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Europe-Global-Summit] <a name="about-project"> is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.</a>
+# 📖 [Capstone-project] <a name="about-project"></a>
+
+>🔊 This website is a web development course that was inspired from a conference website CC-Global-Summit of 2015 designed by [cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 **Europe-Global-Summit**
 
@@ -77,7 +79,7 @@
 - [Live Demo Link](https://michaelkith.github.io/Capstone-1-Project/)
 
 ## Loom Video <a name="loom"></a>
-- [Video Link](https://www.loom.com/share/9abe320aae044060a296ed0362c5e177)
+- [Video Link](https://www.loom.com/share/d1fb263c697a4a94a7ea60ccad611540)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
