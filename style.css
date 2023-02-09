@@ -286,7 +286,7 @@ footer img {
 }
 
 .course .image-container {
-  width: 30%;
+  width: 40%;
 }
 
 .logo-image img {
@@ -295,7 +295,7 @@ footer img {
 }
 
 .course .image-container img {
-  width: 50%;
+  width: 28vw;
   padding-left: 1rem;
   object-fit: fill;
 }
